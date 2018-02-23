@@ -111,16 +111,6 @@ h1 {
     font-size: 20px;
 }
 
-.PokeballArticle {
-    background-image: url("../img/Backgrounds/PokeballBackground.png");
-    border: 1px solid;
-    padding: 20px;
-    width: 80%;
-    margin-top: 50px;
-    border-radius: 8px;
-    font-size: 20px;
-}
-
 .GameArticle {
     background-image: url("../img/Backgrounds/GamePicture.png");
     border: 1px solid;
